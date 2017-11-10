@@ -17,3 +17,4 @@
 > npm install bower -g
 
 ## bower будет устанавливать пакеты в libs, это указано в .bowerrc
+>bower install fotorama
